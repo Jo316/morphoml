@@ -5,7 +5,8 @@
 
 
 import sys 
-ufiles_path = "/mnt/c/Users/Joseph/Documents/phd/bdem/dembook/"
+import sys 
+from keyvars import ufiles_path
 sys.path.append(ufiles_path)
 
 import uvars
